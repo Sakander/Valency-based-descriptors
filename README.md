@@ -9,4 +9,4 @@ Copy the adjacency matrix by right clicking on the matrix.
 
 Step 2. Paste the matrix and order of G in the Valency-descriptors.m file in B and n resepctively.
 
-Run the Valency-descriptors.m file to obtain your result.
+Run the ValencyDescriptors.m file to obtain your result.
